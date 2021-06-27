@@ -1,0 +1,10 @@
+:root {
+  --bg: #e3e3e3;
+
+  --white: #fff;
+
+  --form-wrap: rgba(221, 230, 237, 0.4) 0px 3px 10px 0px;
+  --form-control: #b5b5b5;
+
+  --error: #ff0000;
+}
